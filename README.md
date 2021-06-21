@@ -1,4 +1,4 @@
- Put base of the arm
+ Put base of the arm . 
 . Installation the waist above the base
 . Connect the ARM 1 in waist
 . Connect the ARM 2 in ARM 1
